@@ -39,6 +39,9 @@ We ran statistical testing on blood pressure as well and likewise found no corre
 Conclusions
 We concluded with the data that smoking does not present an increased risk in the likelihood of stroke, and neither do other lifestyle factors like diet and exercise.  The three largest factors in predicting risk of stroke appear to be age, BMI, and glucose level.
 
+Presentation Link:
+https://docs.google.com/presentation/d/1RNHlMzREXb6m8Bjw_8ZI5zaF2lBcJIdXMOph0lhZXwE/edit?usp=sharing
+
 Sources
 https://www.kaggle.com/datasets/teamincribo/stroke-prediction?select=stroke_prediction_dataset.csv
 https://www.kaggle.com/code/joshuaswords/predicting-a-stroke-shap-lime-explainer-eli5/input
